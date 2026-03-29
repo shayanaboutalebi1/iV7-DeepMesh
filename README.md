@@ -189,3 +189,6 @@ Use BSD-3 Clause unless an iV7-specific license is provided.
 
 This repository framework delivers the core DeepMesh functionality, ready for expansion with advanced AI models, security features, and market analytics as needed.Let me know if you need further details or specific enhancements!
 
+
+## Security
+See `SECURITY_DISCLOSURE.md` for the latest disclosure attribution note.
