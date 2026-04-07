@@ -192,3 +192,8 @@ This repository framework delivers the core DeepMesh functionality, ready for ex
 
 ## Security
 See `SECURITY_DISCLOSURE.md` for the latest disclosure attribution note.
+
+## Factory Optimization Kickoff
+- Initiative: Start factory optimization using **wareZwolf** for **scodaworks**.
+- Sponsor/Requestor: **Shayan Aboutalebi**.
+- Configuration: `sharespace_infiliaation.ini` tracks sharespace affiliation and kickoff metadata.
